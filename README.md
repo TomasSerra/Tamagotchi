@@ -1,4 +1,4 @@
-<h2> TAMAGOTCHI V0.0.1 </h2>
+<h2> TAMAGOTCHI V0.1 </h2>
 
 Tamagotchi Pet made in Python 3 with Turtle and Pygame.
 
